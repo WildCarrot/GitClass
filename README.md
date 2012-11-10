@@ -8,3 +8,5 @@ This is some *really important* text!
 
 You __must__ do this thing!
 
+[Sweet site](http://www.google.com)
+

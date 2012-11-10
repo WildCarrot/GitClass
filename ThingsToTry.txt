@@ -2,4 +2,5 @@
 * Add markdown-mode to emacs at work (if it's not already there).
 * git checkout will switch between branches.
 * git branch --list will show branches.
+* git diff master <file>
 

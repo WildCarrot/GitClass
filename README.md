@@ -1,3 +1,5 @@
+# Something only visible in my Special Branch to start
+
 This is my fancy README file about the file for this class.
 
 
@@ -14,5 +16,8 @@ You __must__ do this thing!
 * This is one thing
 * This is thing two
    * Sub thing two
+
+
+
 
 

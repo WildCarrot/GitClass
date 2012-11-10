@@ -2,4 +2,6 @@
 * Add markdown-mode to emacs at work (if it's not already there).
 * git checkout will switch between branches.
 * git branch --list will show branches.
+* rollback undoes the commit, but not the changes
+  * revert undoes the commit AND undoes the changes (!)
 

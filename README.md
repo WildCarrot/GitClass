@@ -1,3 +1,5 @@
+# This is a title that will conflict with the branch
+
 This is my fancy README file about the file for this class.
 
 

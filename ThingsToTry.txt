@@ -1,0 +1,3 @@
+* See if there's a git shell for linux.
+* Add markdown-mode to emacs at work (if it's not already there).
+* 
